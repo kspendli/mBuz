@@ -98,7 +98,7 @@ const Settings = ()=>{
                     <Grid container item xs={12} className={classes.gridMargin}> 
                         <Grid container item xs={4} >
                             <Button variant="outlined" color="secondary" className={classes.button}>Cancel</Button>
-                            <Button variant="outlined" color="primary" className={classes.button}>Save Settigs</Button>
+                            <Button variant="outlined" color="primary" className={classes.button}>Save Settings</Button>
                         </Grid>
                     </Grid>
                 </Grid>
