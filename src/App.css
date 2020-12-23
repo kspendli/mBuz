@@ -1,0 +1,25 @@
+.header-color {
+    background-color: #3cda1f85;
+    background-repeat: repeat;
+    background-position: center center;
+    background-size: contain;
+    background-attachment: scroll;
+}
+
+.text-center {
+text-align: center;
+}
+
+.text-left {
+text-align: left;
+}
+
+.text-right {
+text-align: right;
+}
+body {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
